@@ -1,6 +1,6 @@
 # NX-Patch
 
-<img src="image/logo.png" alt="NX-Patch Logo" width="600">
+![NX-Patch Logo](image/logo.png){ width="96" style="display: block; margin: 0 auto" }
 
 ### Payload And Tools Collection Hub
 
