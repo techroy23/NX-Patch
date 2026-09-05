@@ -1,6 +1,6 @@
 # NX-Patch
 
-![NX-Patch Logo](image/logo.png)
+![NX-Patch Logo](image/logo.png){ width="96" style="display: block; margin: 0 auto" }
 
 ### Payload And Tools Collection Hub
 
@@ -20,6 +20,7 @@ workflow efficient and up to date.
 | hekate | `v6.5.3` | [CTCaer/hekate](https://github.com/CTCaer/hekate) |
 | Atmosphere | `1.11.2` | [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) |
 | sys-patch | `v1.6.2.3` | [borntohonk/sys-patch](https://github.com/borntohonk/sys-patch) |
+| sys-dock | `1.0.2` | [masagrator/sys-dock](https://github.com/masagrator/sys-dock) |
 | modchip-toolbox | `v1.0.3` | [DefenderOfHyrule/modchip-toolbox](https://github.com/DefenderOfHyrule/modchip-toolbox) |
 | Lockpick_RCMaster | `2.0.0` | [THZoria/Lockpick_RCMaster](https://github.com/THZoria/Lockpick_RCMaster) |
 
