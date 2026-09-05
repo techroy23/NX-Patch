@@ -1,6 +1,6 @@
 # NX-Patch
 
-![NX-Patch Logo](image/logo.png){ width="600" style="display: block; margin: 0 auto" }
+![NX-Patch Logo](image/logo.png)
 
 ### Payload And Tools Collection Hub
 
