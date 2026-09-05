@@ -1,4 +1,7 @@
 # NX-Patch
+
+<img src="image/logo.png" alt="NX-Patch Logo" width="96">
+
 ### Payload And Tools Collection Hub
 
 A streamlined bundle for modded Nintendo Switch systems, combining essential
