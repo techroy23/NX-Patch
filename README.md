@@ -22,7 +22,7 @@ workflow efficient and up to date.
 | sys-patch | `v1.6.2.3` | [borntohonk/sys-patch](https://github.com/borntohonk/sys-patch) |
 | sys-dock | `1.0.2` | [masagrator/sys-dock](https://github.com/masagrator/sys-dock) |
 | modchip-toolbox | `v1.0.3` | [DefenderOfHyrule/modchip-toolbox](https://github.com/DefenderOfHyrule/modchip-toolbox) |
-| Lockpick_RCMaster | `2.0.0` | [THZoria/Lockpick_RCMaster](https://github.com/THZoria/Lockpick_RCMaster) |
+| Lockpick_RCMaster | `2.0.1` | [THZoria/Lockpick_RCMaster](https://github.com/THZoria/Lockpick_RCMaster) |
 
 ### Patches
 
