@@ -52,7 +52,7 @@ workflow efficient and up to date.
 
 | Component | Version | Repository |
 |-----------|---------|------------|
-| Prelude-Nro | `v3.4.5` | [NextendoNetwork/Prelude-Nro](https://github.com/NextendoNetwork/Prelude-Nro) |
+| Prelude-Nro | `v3.4.6` | [NextendoNetwork/Prelude-Nro](https://github.com/NextendoNetwork/Prelude-Nro) |
 | sphaira | `1.0.7` | [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) |
 | JKSV | `12/02/2025` | [J-D-K/JKSV](https://github.com/J-D-K/JKSV) |
 | linkalho | `v2.0.2` | [impeeza/linkalho](https://github.com/impeeza/linkalho) |
@@ -61,12 +61,13 @@ workflow efficient and up to date.
 | DBIPatcher | `905` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
 | Amiigo | `2.4.1` | [CompSciOrBust/Amiigo](https://github.com/CompSciOrBust/Amiigo) |
 | Moonlight-Switch | `v1.5.0` | [XITRIX/Moonlight-Switch](https://github.com/XITRIX/Moonlight-Switch) |
-| pipensx | `1.5.0` | [i3sey/pipensx](https://github.com/i3sey/pipensx) |
+| pipensx | `1.6.2` | [i3sey/pipensx](https://github.com/i3sey/pipensx) |
 | pemu | `v7.2` | [Cpasjuste/pemu](https://github.com/Cpasjuste/pemu) |
 | twiNX | `v0.9.1` | [DomazinUS/twiNX](https://github.com/DomazinUS/twiNX) |
 | aio-switch-updater | `2.23.3` | [HamletDuFromage/aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater) |
 | SaltyNX-Tool | `1.1.1` | [masagrator/SaltyNX-Tool](https://github.com/masagrator/SaltyNX-Tool) |
 | ppsspp-switch-community-build | `v0.6.5` | [SirSamael/ppsspp-switch-community-build](https://github.com/SirSamael/ppsspp-switch-community-build) |
+| ARMSX2-NX | `v3.0.0` | [PalindromicBreadLoaf/ARMSX2-NX](https://github.com/PalindromicBreadLoaf/ARMSX2-NX) |
 
 ### Themes
 
