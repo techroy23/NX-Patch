@@ -52,7 +52,7 @@ workflow efficient and up to date.
 
 | Component | Version | Repository |
 |-----------|---------|------------|
-| Prelude-Nro | `v3.4.6` | [NextendoNetwork/Prelude-Nro](https://github.com/NextendoNetwork/Prelude-Nro) |
+| Prelude-Nro | `v3.4.7` | [NextendoNetwork/Prelude-Nro](https://github.com/NextendoNetwork/Prelude-Nro) |
 | sphaira | `1.0.7` | [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) |
 | JKSV | `12/02/2025` | [J-D-K/JKSV](https://github.com/J-D-K/JKSV) |
 | linkalho | `v2.0.2` | [impeeza/linkalho](https://github.com/impeeza/linkalho) |
