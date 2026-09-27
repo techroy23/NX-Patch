@@ -30,7 +30,7 @@ workflow efficient and up to date.
 |-----------|---------|------------|
 | disable_remap_dialog | `v1.0.13` | [ndeadly/disable_remap_dialog](https://github.com/ndeadly/disable_remap_dialog) |
 | MissionControl | `v0.15.2` | [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) |
-| SaltyNX | `1.9.3` | [masagrator/SaltyNX](https://github.com/masagrator/SaltyNX) |
+| SaltyNX | `2.0.0` | [masagrator/SaltyNX](https://github.com/masagrator/SaltyNX) |
 
 ### Overlays
 
@@ -45,18 +45,18 @@ workflow efficient and up to date.
 | ovl-sysmodules | `v1.5.3` | [ppkantorski/ovl-sysmodules](https://github.com/ppkantorski/ovl-sysmodules) |
 | Horizon-OC | `2.5.1` | [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) |
 | Status-Monitor-Deux | `0.2.1` | [masagrator/Status-Monitor-Deux](https://github.com/masagrator/Status-Monitor-Deux) |
-| FPSLocker | `3.3.2` | [masagrator/FPSLocker](https://github.com/masagrator/FPSLocker) |
+| FPSLocker | `3.4.0` | [masagrator/FPSLocker](https://github.com/masagrator/FPSLocker) |
 | emuiibo | `1.1.3` | [XorTroll/emuiibo](https://github.com/XorTroll/emuiibo) |
 
 ### HomeBrew
 
 | Component | Version | Repository |
 |-----------|---------|------------|
-| Prelude-Nro | `v3.4.7` | [NextendoNetwork/Prelude-Nro](https://github.com/NextendoNetwork/Prelude-Nro) |
+| Prelude-Nro | `v3.5.3` | [NextendoNetwork/Prelude-Nro](https://github.com/NextendoNetwork/Prelude-Nro) |
 | sphaira | `1.0.7` | [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) |
 | JKSV | `12/02/2025` | [J-D-K/JKSV](https://github.com/J-D-K/JKSV) |
 | linkalho | `v2.0.2` | [impeeza/linkalho](https://github.com/impeeza/linkalho) |
-| SwitchThemeInjector | `nxt-3.0.1` | [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) |
+| SwitchThemeInjector | `nxt-3.0.2` | [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) |
 | CyberFoil | `1.4.6` | [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) |
 | DBIPatcher | `905` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
 | Amiigo | `2.4.1` | [CompSciOrBust/Amiigo](https://github.com/CompSciOrBust/Amiigo) |
