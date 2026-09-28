@@ -17,8 +17,8 @@ workflow efficient and up to date.
 
 | Component | Version | Repository |
 |-----------|---------|------------|
-| hekate | `v6.5.3` | [CTCaer/hekate](https://github.com/CTCaer/hekate) |
-| Atmosphere | `1.11.2` | [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) |
+| hekate | `v6.5.4` | [CTCaer/hekate](https://github.com/CTCaer/hekate) |
+| Atmosphere | `1.12.0` | [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) |
 | sys-patch | `v1.6.2.3` | [borntohonk/sys-patch](https://github.com/borntohonk/sys-patch) |
 | sys-dock | `1.0.2` | [masagrator/sys-dock](https://github.com/masagrator/sys-dock) |
 | modchip-toolbox | `v1.0.3` | [DefenderOfHyrule/modchip-toolbox](https://github.com/DefenderOfHyrule/modchip-toolbox) |
@@ -28,7 +28,7 @@ workflow efficient and up to date.
 
 | Component | Version | Repository |
 |-----------|---------|------------|
-| disable_remap_dialog | `v1.0.13` | [ndeadly/disable_remap_dialog](https://github.com/ndeadly/disable_remap_dialog) |
+| disable_remap_dialog | `v1.0.14` | [ndeadly/disable_remap_dialog](https://github.com/ndeadly/disable_remap_dialog) |
 | MissionControl | `v0.15.2` | [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) |
 | SaltyNX | `2.0.0` | [masagrator/SaltyNX](https://github.com/masagrator/SaltyNX) |
 
