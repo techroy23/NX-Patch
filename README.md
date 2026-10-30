@@ -44,7 +44,7 @@ workflow efficient and up to date.
 | ovl-sysmodules | `v1.5.3` | [ppkantorski/ovl-sysmodules](https://github.com/ppkantorski/ovl-sysmodules) |
 | Horizon-OC | `2.6.0-rel` | [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) |
 | Status-Monitor-Deux | `0.2.1` | [masagrator/Status-Monitor-Deux](https://github.com/masagrator/Status-Monitor-Deux) |
-| FPSLocker | `3.5.0` | [masagrator/FPSLocker](https://github.com/masagrator/FPSLocker) |
+| FPSLocker | `3.5.1` | [masagrator/FPSLocker](https://github.com/masagrator/FPSLocker) |
 | Nextendo-status-ovl | `v1.4.2` | [Doutea/Nextendo-status-ovl](https://github.com/Doutea/Nextendo-status-ovl) |
 | emuiibo | `1.1.3` | [XorTroll/emuiibo](https://github.com/XorTroll/emuiibo) |
 
@@ -52,7 +52,7 @@ workflow efficient and up to date.
 
 | Component | Version | Repository |
 |-----------|---------|------------|
-| Prelude-Nro | `v4.0.15` | [NextendoNetwork/Prelude-Nro](https://github.com/NextendoNetwork/Prelude-Nro) |
+| Prelude-Nro | `v4.0.16` | [NextendoNetwork/Prelude-Nro](https://github.com/NextendoNetwork/Prelude-Nro) |
 | sphaira | `1.0.8` | [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) |
 | JKSV | `12/02/2025` | [J-D-K/JKSV](https://github.com/J-D-K/JKSV) |
 | linkalho | `v2.0.2` | [impeeza/linkalho](https://github.com/impeeza/linkalho) |
