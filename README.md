@@ -45,19 +45,19 @@ workflow efficient and up to date.
 | Horizon-OC | `2.6.0-rel` | [Horizon-OC/Horizon-OC](https://github.com/Horizon-OC/Horizon-OC) |
 | Status-Monitor-Deux | `0.2.1` | [masagrator/Status-Monitor-Deux](https://github.com/masagrator/Status-Monitor-Deux) |
 | FPSLocker | `3.5.1` | [masagrator/FPSLocker](https://github.com/masagrator/FPSLocker) |
-| Nextendo-status-ovl | `v1.4.2` | [Doutea/Nextendo-status-ovl](https://github.com/Doutea/Nextendo-status-ovl) |
+| Nextendo-status-ovl | `v1.5.7` | [Doutea/Nextendo-status-ovl](https://github.com/Doutea/Nextendo-status-ovl) |
 | emuiibo | `1.1.3` | [XorTroll/emuiibo](https://github.com/XorTroll/emuiibo) |
 
 ### HomeBrew
 
 | Component | Version | Repository |
 |-----------|---------|------------|
-| Prelude-Nro | `v4.0.16` | [NextendoNetwork/Prelude-Nro](https://github.com/NextendoNetwork/Prelude-Nro) |
-| sphaira | `1.0.8` | [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) |
+| Prelude-Nro | `v4.0.18` | [NextendoNetwork/Prelude-Nro](https://github.com/NextendoNetwork/Prelude-Nro) |
+| sphaira | `1.0.9` | [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) |
 | JKSV | `12/02/2025` | [J-D-K/JKSV](https://github.com/J-D-K/JKSV) |
 | linkalho | `v2.0.2` | [impeeza/linkalho](https://github.com/impeeza/linkalho) |
 | SwitchThemeInjector | `nxt-3.0.2` | [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) |
-| CyberFoil | `1.5.0` | [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) |
+| CyberFoil | `1.5.1` | [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) |
 | DBIPatcher | `921` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
 | Amiigo | `2.4.1` | [CompSciOrBust/Amiigo](https://github.com/CompSciOrBust/Amiigo) |
 | Moonlight-Switch | `v1.5.0` | [XITRIX/Moonlight-Switch](https://github.com/XITRIX/Moonlight-Switch) |
