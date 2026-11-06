@@ -29,7 +29,7 @@ workflow efficient and up to date.
 |-----------|---------|------------|
 | disable_remap_dialog | `v1.0.14` | [ndeadly/disable_remap_dialog](https://github.com/ndeadly/disable_remap_dialog) |
 | MissionControl | `v0.16.0` | [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) |
-| SaltyNX | `2.1.3` | [masagrator/SaltyNX](https://github.com/masagrator/SaltyNX) |
+| SaltyNX | `2.1.4` | [masagrator/SaltyNX](https://github.com/masagrator/SaltyNX) |
 
 ### Overlays
 
@@ -59,7 +59,7 @@ workflow efficient and up to date.
 | SwitchThemeInjector | `nxt-3.0.2` | [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) |
 | CyberFoil | `1.5.1` | [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) |
 | DBIPatcher | `921` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
-| Amiigo | `2.4.1` | [CompSciOrBust/Amiigo](https://github.com/CompSciOrBust/Amiigo) |
+| Amiigo | `2.5.0` | [CompSciOrBust/Amiigo](https://github.com/CompSciOrBust/Amiigo) |
 | Moonlight-Switch | `v1.5.0` | [XITRIX/Moonlight-Switch](https://github.com/XITRIX/Moonlight-Switch) |
 | pemu | `v7.2` | [Cpasjuste/pemu](https://github.com/Cpasjuste/pemu) |
 | twiNX | `v0.9.1` | [DomazinUS/twiNX](https://github.com/DomazinUS/twiNX) |
