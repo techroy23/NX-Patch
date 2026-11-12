@@ -22,20 +22,20 @@ workflow efficient and up to date.
 | sys-patch | `v1.6.3.0` | [impeeza/sys-patch](https://github.com/impeeza/sys-patch) |
 | modchip-toolbox | `v1.0.3` | [DefenderOfHyrule/modchip-toolbox](https://github.com/DefenderOfHyrule/modchip-toolbox) |
 | Lockpick_RCMaster | `2.0.1` | [THZoria/Lockpick_RCMaster](https://github.com/THZoria/Lockpick_RCMaster) |
-| disable_remap_dialog | `v1.0.14` | [ndeadly/disable_remap_dialog](https://github.com/ndeadly/disable_remap_dialog) |
 
 ### Patches
 
 | Component | Version | Repository |
 |-----------|---------|------------|
+| disable_remap_dialog | `v1.0.14` | [ndeadly/disable_remap_dialog](https://github.com/ndeadly/disable_remap_dialog) |
 | MissionControl | `v0.16.1` | [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) |
 | SaltyNX | `2.1.4` | [masagrator/SaltyNX](https://github.com/masagrator/SaltyNX) |
-| nx-ovlloader | `v2.0.3` | [ppkantorski/nx-ovlloader](https://github.com/ppkantorski/nx-ovlloader) |
 
 ### Overlays
 
 | Component | Version | Repository |
 |-----------|---------|------------|
+| nx-ovlloader | `v2.0.3` | [ppkantorski/nx-ovlloader](https://github.com/ppkantorski/nx-ovlloader) |
 | Ultrahand-Overlay | `v2.5.4` | [ppkantorski/Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) |
 | Status-Monitor-Overlay | `v1.4.1+r5` | [ppkantorski/Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) |
 | NX-FanControl | `1.0.3+r4` | [ppkantorski/NX-FanControl](https://github.com/ppkantorski/NX-FanControl) |
@@ -47,12 +47,12 @@ workflow efficient and up to date.
 | FPSLocker | `3.5.1` | [masagrator/FPSLocker](https://github.com/masagrator/FPSLocker) |
 | Nextendo-status-ovl | `v1.5.7` | [Doutea/Nextendo-status-ovl](https://github.com/Doutea/Nextendo-status-ovl) |
 | emuiibo | `1.1.3` | [XorTroll/emuiibo](https://github.com/XorTroll/emuiibo) |
-| Prelude-Nextendo | `v5.0.0` | [NextendoNetwork/Prelude-Nextendo](https://git.nextendo.network/NextendoNetwork/Prelude-Nextendo) |
 
 ### HomeBrew
 
 | Component | Version | Repository |
 |-----------|---------|------------|
+| Prelude-Nextendo | `v5.0.0` | [NextendoNetwork/Prelude-Nextendo](https://git.nextendo.network/NextendoNetwork/Prelude-Nextendo) |
 | sphaira | `1.0.9` | [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) |
 | JKSV | `12/02/2025` | [J-D-K/JKSV](https://github.com/J-D-K/JKSV) |
 | linkalho | `v2.0.2` | [impeeza/linkalho](https://github.com/impeeza/linkalho) |
